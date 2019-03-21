@@ -1,4 +1,5 @@
 project: MorphStore
 title: MorphStore
+logo: /assets/images/morphicorn.png
 
 theme: jekyll-theme-minimal
