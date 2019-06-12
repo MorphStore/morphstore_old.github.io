@@ -1,6 +1,6 @@
 project: MorphStore
 title: MorphStore
 logo: /assets/images/morphstore_logo_no_text.png
-show_downloads: true
+show_downloads: false
 
 theme: jekyll-theme-minimal
