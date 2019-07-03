@@ -1,37 +1,27 @@
 ## Welcome to MorphStore
 
-You can use the [editor on GitHub](https://github.com/MorphStore/morphstore.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MorphStore is a regular in- memory column store with a novel compression-aware and highly vectroized query processing concept. The unique features of MorphStore are:
+- support of a large variety of lightweight integer compression algorithms,
+- a continuous handling of compression from base data to intermediate results, 
+- a cost-based decision for the best-suited compression algorithm, 
+- morphing intermediates from one compression scheme to an- other compression scheme to dynamically adapt the physical representation to the changing data characteristics during query processing. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## SIGMOD Demo
 
-### Markdown
+We are currently demonstration MorphStore at SIGMOD on
+- Wednesday, 16:20 - 17:50
+- Thursday, 16:20 - 17:50
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Advisors
 
-```markdown
-Syntax highlighted code block
+- Dirk Habich (TU Dresden)
+- Wolfgang Lehner (TU Dresden)
 
-# Header 1
-## Header 2
-### Header 3
+## Contributors
 
-- Bulleted
-- List
+- Patrick Damme (TU Dresden)
+- Annett Ungethüm (TU Dresden)
+- Johannes Pietrzyk (TU Dresden)
+- Alexander Krause (TU Dresden)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MorphStore/morphstore.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
